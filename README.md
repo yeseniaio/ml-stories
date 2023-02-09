@@ -30,16 +30,16 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">What is Machine Learning?</a>
+      <a href="#what-is-machine-learning">What is Machine Learning?</a>
       <ul>
-        <li><a href="#built-with">Requirements</a></li>
+        <li><a href="#requirements">Requirements</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">What's in this Repository</a>
+      <a href="#what-is-in-this-repository">What is in this Repository</a>
       <ul>
-        <li><a href="#prerequisites">Getting Started</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#getting-started">Getting Started</a></li>
+        <li><a href="#resources">Resources</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -73,7 +73,7 @@ In order to follow along with the tutorials and examples in this repository, you
 
 
 <!-- GETTING STARTED -->
-## What's in this Repository
+## What is in this Repository
 
 This repository contains resources, tutorials, and examples to help you get started with machine learning. You will find the following items in this repository:
 
@@ -127,3 +127,6 @@ Email: hello@yesenia.io
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[product-screenshot]: assets/img/linear-regression.png
